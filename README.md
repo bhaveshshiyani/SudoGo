@@ -36,7 +36,7 @@
             <li><strong>Create a pull request</strong> to the main repository.</li>
         </ol>
         <h2 class="text-purple-600">📄 License</h2>
-        <p class="text-gray-700">This project is licensed under the MIT License. See the <a href="https://www.google.com/search?q=LICENSE" class="text-blue-600 hover:underline">LICENSE</a> file for more details.</p>
+        <p class="text-gray-700">This project is licensed under the MIT License. See the <a href="https://github.com/bhaveshshiyani/SudoGo/blob/main/LICENSE" class="text-blue-600 hover:underline">LICENSE</a> file for more details.</p>
         <h2 class="text-purple-600">Created By</h2>
         <ul class="list-disc pl-5">
             <li><a href="https://in.linkedin.com/in/bhavesh-shiyani-b3471a48" class="text-blue-600 hover:underline"><strong>Bhavesh Shiyani</strong></a></li>
